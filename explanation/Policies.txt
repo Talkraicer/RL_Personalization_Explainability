@@ -1,0 +1,3 @@
+speed is always in range [20,30]
+policy_fast: if speed < 29, act FASTER, otherwise doesn't care what action taken
+policy_slow: if speed > 21, act SLOWER, otherwise doesn't care what action taken
